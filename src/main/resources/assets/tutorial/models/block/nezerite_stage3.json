@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/crop",
-  "textures": {
-    "crop": "tutorial:blocks/nezerite_stage3"
-  }
-}
